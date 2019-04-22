@@ -76,10 +76,10 @@ class MyCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new Container(
-      padding: new EdgeInsets.only(bottom: 30.0),
+      padding: new EdgeInsets.all(15.0),
       child: new Card(
         child: new Container(
-          padding: new EdgeInsets.all(30.0),
+          padding: new EdgeInsets.all(15.0),
           child: new Column(
             children: <Widget>[
               this.icon

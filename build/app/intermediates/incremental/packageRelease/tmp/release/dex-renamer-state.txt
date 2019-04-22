@@ -1,0 +1,4 @@
+#Mon Apr 22 23:12:14 UTC 2019
+base.0=/root/stemgirls/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
